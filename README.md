@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="480" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdedjalilsaf&label=Profile%20views&color=0e75b6&style=flat" alt="abdedjalilsaf" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abd el djalil saf" target="blank"><img src="https://img.shields.io/twitter/follow/abd el djalil saf?logo=twitter&style=for-the-badge" alt="abd el djalil saf" /></a> </p>
+<p align="left"> <a href="https://twitter.com/search?q=Abd%20El%20Djalil%20Saf&src=typed_query" target="blank"><img src="https://img.shields.io/twitter/follow/abd el djalil saf?logo=twitter&style=for-the-badge" alt="abd el djalil saf" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
