@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web,Tailwind,React**
 
-- 📫 How to reach me **noodsaf01@gmail.com**
+- 📫 How to reach me **abdeldjalilsaf01@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
