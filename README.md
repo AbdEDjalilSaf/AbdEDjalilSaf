@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/search?q=Abd%20El%20Djalil%20Saf&src=typed_query" target="blank"><img src="https://img.shields.io/twitter/follow/abd el djalil saf?logo=twitter&style=for-the-badge" alt="abd el djalil saf" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Express JS**
 
 - 💬 Ask me about **Web,Tailwind,React**
 
